@@ -1,0 +1,8 @@
+prefix=/home/liudiepie/catkin_ws/install
+
+Name: airos
+Description: Description of airos
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
