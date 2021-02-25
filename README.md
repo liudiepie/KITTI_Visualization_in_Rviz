@@ -7,7 +7,7 @@
 
 ## Peugeot
 ##### Car model
-
+##### To change the car model, just replaced Peugeot.dae to your favorite model.
 ## kitti.py
 ##### The main py sets up Publisher
 [kitti.py](https://github.com/liudiepie/ROS_practice/blob/master/src/kitti/src/kitti.py)
