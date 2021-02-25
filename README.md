@@ -10,7 +10,7 @@
 
 ## kitti.py
 ##### The main py sets up Publisher
-![image](https://github.com/liudiepie/ROS_practice/blob/master/src/kitti/src/kitti.py)
+![kitti.py](https://github.com/liudiepie/ROS_practice/blob/master/src/kitti/src/kitti.py)
 ## kitti_utils.py
 ##### Calibration functions
 
