@@ -60,5 +60,6 @@ def min_distance_cuboids(cub1,cub2):
 # Installation
 # Environment
 ##### Ubuntu 20.04
+![Ubuntu 20.04](https://ubuntu.com/download/desktop)
 ##### Python 3.8
 > os, numpy, cv2, rospy, pandas,
