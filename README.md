@@ -1,4 +1,5 @@
-# KITTI Visualization in Rviz
+# KITTI Visualization in Rviz (unofficial)
+This visualization is a re-implementation of The KITTI Vision Benchmark Suite based on the [website](http://www.cvlibs.net/datasets/kitti/index.php)
 ##### Including carema, point cloud, 3d boxes, imu data, gps data, tracking location and min distance between other objects
 ![image](https://github.com/liudiepie/ROS_practice/blob/master/view.gif)
 
