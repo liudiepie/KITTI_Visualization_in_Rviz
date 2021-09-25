@@ -1,4 +1,4 @@
-# ROS_practice
+# KITTI Visualization in Rviz
 ##### Including carema, point cloud, 3d boxes, imu data, gps data, tracking location and min distance between other objects
 ![image](https://github.com/liudiepie/ROS_practice/blob/master/view.gif)
 
