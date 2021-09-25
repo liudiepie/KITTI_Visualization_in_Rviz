@@ -5,7 +5,15 @@ This visualization is a re-implementation of The KITTI Vision Benchmark Suite ba
 
 # Installation
 * ## Environment
-   #### Ubuntu 20.04
+   ### Ubuntu 20.04
    [Ubuntu 20.04](https://ubuntu.com/download/desktop)
-   #### Python 3.8
+   ### Python 3.8
    > os, numpy, cv2, rospy, pandas,
+* ## Data
+   ### Raw Data
+   Download 2011_09-26_drive_0005 from website above
+   Convert KITTI dataset into ROS bag files
+   ```bash
+   sudo pip install kitti2bag
+   kitti2bag -t 2011_09_26 -r 0005 rawsynced
+   ```
