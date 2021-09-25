@@ -4,7 +4,7 @@ This visualization is a re-implementation of The KITTI Vision Benchmark Suite ba
 ![image](https://github.com/liudiepie/ROS_practice/blob/master/view.gif)
 
 # Installation
-## Environment
+* ## Environment
 #### Ubuntu 20.04
 [Ubuntu 20.04](https://ubuntu.com/download/desktop)
 #### Python 3.8
