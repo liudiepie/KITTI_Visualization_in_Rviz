@@ -1,8 +1,8 @@
 # KITTI Visualization in Rviz (unofficial)
 This visualization is a re-implementation of The KITTI Vision Benchmark Suite based on the [website](http://www.cvlibs.net/datasets/kitti/index.php)
 ## The purpose of the visualization
-Show how to include carema, point cloud, 3d boxes, imu data, gps data, tracking location and min distance between other objects in Rviz
-3d boxes, tracking location, and min distance between other objets are printed by ROS markers
+Show how to include carema, point cloud, 3d boxes, imu data, gps data, tracking location and min distance between other objects in Rviz  
+3d boxes, tracking location, and min distance between other objets are printed by ROS markers  
 
 ![image](https://github.com/liudiepie/ROS_practice/blob/master/view.gif)
 
